@@ -5,5 +5,8 @@ Puedes probar la aplicación directamente en este enlace: https://samarasamara64
 
 
 <h2>Funcionalidades</h2>
-- Ingresa los nombres de los participantes (mínimo dos). 
-- 
+- Ingresa los nombres de los participantes (mínimo dos)
+- Almacenar los nombres ingresados en la pantalla
+- Reconocer valores inválidos y desplegar un mensaje haciendolo visible
+- Sorteo aleatorio 
+- Presentación de ganador.
