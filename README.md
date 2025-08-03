@@ -1,5 +1,7 @@
-# Challenge Amigo secreto
+# Amigo Secreto 🎁
+
 ![Insignia del challenge](assets/INISIGNIA%20AMIGO.webp)
+
 
 
 Challenge del programa ONE de Oracle y ALURA llamado "El Amigo Secreto". Consiste en crear una lista personalizada de amigos que serán sorteados aleatoriamente para elegir un ganador. 
