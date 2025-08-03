@@ -5,9 +5,9 @@ Puedes probar la aplicación directamente en este enlace: https://samarasamara64
 
 
 <h2>Funcionalidades</h2>
-- Añadir amigos.
-- Almacenar amigos en una lista.
-- Reconocer valores inválidos.
-- Informe de errores en pantalla.
-- Sorteo aleatorio.
-- Presentación de ganador.
+* Añadir amigos.
+* Almacenar amigos en una lista.
+* Reconocer valores inválidos.
+* Informe de errores en pantalla.
+* Sorteo aleatorio.
+* Presentación de ganador.
